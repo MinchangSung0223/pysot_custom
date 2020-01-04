@@ -1,0 +1,10 @@
+opencv-python
+torch
+torchvision
+yacs
+tqdm
+pyyaml
+matplotlib
+colorama
+cython
+tensorboardX
