@@ -1,3 +1,11 @@
+pyyaml
+yacs
+tqdm
+colorama
+matplotlib
+cython
+tensorboardX
+
 opencv-python
 torch
 torchvision
